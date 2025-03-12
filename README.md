@@ -15,6 +15,7 @@ In this project, I:
 - Databases
 - latforms
 - Web frameworks
+  
 ✅ Created an interactive dashboard to visualize key findings and trends.
 
 📊 Dashboard
